@@ -14,4 +14,4 @@ This is the Homework submittal for assignment 5 - Matplotlib challenge.
 ***
 
 ### Additional Info
-The Submitall jupyter notebook has the observations on the top of the notebook and the required code supporting those observations are below as required.
+The Submital jupyter notebook has the observations on the top of the notebook and the required code supporting those observations are below as required.
